@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# About Me:
 Hi, I’m Puja, a passionate Full Stack Developer who enjoys building responsive and user-friendly web applications. I love solving real-world problems through code and continuously improving my technical skills. Currently, I’m strengthening my knowledge in the backend development while working on practical projects.
 
 ## 🌐 Socials:
