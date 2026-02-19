@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m a dedicated Full Stack Developer passionate about building responsive and user-friendly web applications. I love learning new technologies and solving real-world problems through code.
-
+Hi, I’m Puja, a passionate Full Stack Developer who enjoys building responsive and user-friendly web applications. I love solving real-world problems through code and continuously improving my technical skills. Currently, I’m strengthening my knowledge in the backend development while working on practical projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/puja-kumari-2722a7268) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Puja kumari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pujakojha2308@gmail.com) 
